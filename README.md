@@ -1,0 +1,2 @@
+# Tic Tac Toe
+ I developed a Tic-Tac-Toe game using HTML, CSS, and JavaScript with key features like win detection, draw detection, and options to reset or start a new game. The project also includes score tracking to monitor player progress. To improve user experience, I focused on enhancing UI responsiveness and ensuring smooth gameplay across devices. Future improvements include integrating an AI opponent for single-player mode.
